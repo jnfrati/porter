@@ -1,3 +1,9 @@
+## Fork Notice
+
+This is my personal fork of Porter for nostalgic purposes, kept public for my own usage, experiments, and reference.
+
+It is not maintained as a public distribution. I’m not planning to provide support, review issues, or accept pull requests here. For normal usage, please refer to the upstream Porter project.
+
 # Porter
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Go Report Card](https://goreportcard.com/badge/gojp/goreportcard)](https://goreportcard.com/report/github.com/porter-dev/porter)
